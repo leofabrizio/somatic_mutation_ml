@@ -21,7 +21,7 @@ The project aimed at answering to three different questions, i.e.:
 
 **3) Does the patient grouping based on similarity of mutated genes reflect the grouping based on cancer type?**
 
-Using R software I answered to these three questions. The file **preprocessing.R** contains the R code I wrote to do some data preprocessing whereas the file **analyses.R ** contains the R code I wrote to answer the research questions using machine learning methods.
+Using R software I answered to these three questions. The file **preprocessing.R** contains the R code I wrote to do some data preprocessing whereas the file **analyses.R** contains the R code I wrote to answer the research questions using machine learning methods.
 
 Finally, the file **project_work_ENG.pdf** contains a powerpoint presentation highlighting the main results of my analyses.
 
