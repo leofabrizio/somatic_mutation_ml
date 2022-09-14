@@ -15,7 +15,9 @@ https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/t
 
 The project aimed at answering to three different questions, i.e.:
 **1) Is it possible to predict cancer type based on genes with somatic mutation in a patient?**
+
 **2) Is there a «small» set of genes having a good predictive power, or at least as good as the entire set of genes?**
+
 **3) Does the patient grouping based on similarity of mutated genes reflect the grouping based on cancer type?**
 
 Using R software I answered to these three questions. The file **preprocessing.R** contains the R code I wrote to do some data preprocessing whereas the file **analyses.R ** contains the R code I wrote to answer the research questions using machine learning methods.
