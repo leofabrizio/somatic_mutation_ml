@@ -14,6 +14,7 @@ Please see the following website for more details:
 https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga
 
 The project aimed at answering to three different questions, i.e.:
+
 **1) Is it possible to predict cancer type based on genes with somatic mutation in a patient?**
 
 **2) Is there a «small» set of genes having a good predictive power, or at least as good as the entire set of genes?**
